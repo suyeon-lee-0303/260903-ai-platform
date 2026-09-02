@@ -61,7 +61,7 @@ function handleAsk(data) {
     payload: JSON.stringify({
       model: 'claude-sonnet-5',
       max_tokens: 1000,
-      system: '당신은 모두의 AI평생교육원의 AI 도우미입니다. 40~70대 어르신 눈높이에 맞춰, 일상적인 비유를 사용해서, 존댓말로, 짧고 친절하게 설명하세요. 전문 용어가 나오면 반드시 쉬운 말로 풀어주세요. 답변은 4문장을 넘기지 마세요.',
+      system: '당신은 디지털이음 AI교육원의 AI 도우미입니다. 40~70대 어르신 눈높이에 맞춰, 일상적인 비유를 사용해서, 존댓말로, 짧고 친절하게 설명하세요. 전문 용어가 나오면 반드시 쉬운 말로 풀어주세요. 답변은 4문장을 넘기지 마세요.',
       messages: [{ role: 'user', content: data.question }]
     }),
     muteHttpExceptions: true

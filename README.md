@@ -1,4 +1,4 @@
-# 🤖 모두의 AI평생교육원 | Senior AI Hub
+# 🤖 디지털이음 AI교육원 | Senior AI Hub
 
 > AI가 어려운 40~70대 성인·시니어를 위한 AI 상담 · 맞춤 교육 추천 · 무료 체험 신청 서비스
 
@@ -20,12 +20,12 @@ https://github.com/suyeon-lee-0303/ai-platform
 **Senior AI Hub**는 나주 지역 시니어·중장년 학습자를 위한 AI 교육 진입 플랫폼입니다.  
 전문 용어 없이 눈높이에 맞춘 Claude AI 상담을 제공하고, 상담 내용을 바탕으로 학습 과정을 추천한 뒤, 무료 체험 신청을 Google Sheets로 운영자에게 전달합니다.
 
-본 프로젝트는 **모두의 AI평생교육원** 실운영을 위한 **MVP(Minimum Viable Product)** 이며,  
+본 프로젝트는 **디지털이음 AI교육원** 실운영을 위한 **MVP(Minimum Viable Product)** 이며,  
 React + Vite + TypeScript 기반으로 재구축한 수료 제출용 완성본입니다.
 
 | 항목 | 내용 |
 |------|------|
-| 서비스명 | Senior AI Hub (모두의 AI평생교육원) |
+| 서비스명 | Senior AI Hub (디지털이음 AI교육원) |
 | 대상 사용자 | 40~70대 성인 · 시니어 · AI 초보 |
 | 형태 | 반응형 웹 앱 (모바일 우선) |
 | 배포 | Vercel |
@@ -303,7 +303,7 @@ npm run lint      # oxlint
 
 AI·디지털 리터러시 교육 전문가
 
-모두의 AI평생교육원
+디지털이음 AI교육원
 
 GitHub : https://github.com/suyeon-lee-0303
 

@@ -3,7 +3,7 @@ export function HeroSection() {
     <section className="bg-[radial-gradient(circle_at_85%_-10%,#2b4560_0%,var(--navy)_55%)] px-4 py-14 text-white sm:px-6 md:py-20">
       <div className="mx-auto max-w-[760px]">
         <span className="mb-5 inline-block rounded-full border border-white/25 bg-white/12 px-3.5 py-1.5 text-sm font-bold tracking-wide">
-          모두의 AI평생교육원
+          디지털이음 AI교육원
         </span>
         <h1 className="mb-4 text-3xl leading-snug font-bold md:text-[40px]">
           AI가 어려워도 괜찮아요.

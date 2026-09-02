@@ -85,7 +85,7 @@ export default function App() {
 
       <footer className="px-4 pb-16 text-[13px] leading-8 text-ink-soft sm:px-6">
         <div className="mx-auto max-w-[760px] border-t border-line pt-5">
-          © 2026 모두의 AI평생교육원. All rights reserved.
+          © 2026 디지털이음 AI교육원. All rights reserved.
         </div>
       </footer>
     </div>
