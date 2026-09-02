@@ -11,7 +11,7 @@
 https://senior-ai-hub-react.vercel.app
 
 **💻 GitHub**  
-https://github.com/suyeon-lee-0303/260803_-Senior_AI_Hub
+https://github.com/suyeon-lee-0303/ai-platform
 
 ---
 
